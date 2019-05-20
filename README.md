@@ -1,5 +1,5 @@
 # touchScreen
-micro-python driver for Digole LCD touch screen (i2c)
+micro-python driver for Digole LCD touch screen (i2c). See the wiki for its usage.
 
 With this unit, the Digole touch screen colour LCD display can be used with micro-python. It is not a port of the Arduino lib, although ineveitably there are similarities.
 
